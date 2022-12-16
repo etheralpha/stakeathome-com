@@ -1,5 +1,5 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/${theme-name}.css">
+<link rel="stylesheet" href="https://etheralpha.github.io/readme-themes/deep-blue.css">
 
 
 # #StakeFromHome

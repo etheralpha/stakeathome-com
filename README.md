@@ -11,7 +11,7 @@ On August 23rd 2022, Superphiz started the [#StakeFromHome](https://twitter.com/
 - [Files (With Context)](https://bafybeiehu6lvxreqsr24423eqr6bftz6eab6gla4ppvozqqljph6xf5t2m.ipfs.nftstorage.link/)
 - [Files (Just Images)](https://bafybeictylsfwf3j4r6c7zwgjbdanddwjta74t7isiyhuokaxg4avnve6q.ipfs.nftstorage.link/)
 
-These files have been backed up on IPSF. Please help preserve them by pinning the hashes:
+These files have been backed up on IPFS. Please help preserve them by pinning the hashes:
 
 - bafybeidlhoas5o3thlzjgei3gkxgwgcyvv7hgofaknxl6cgv7gbw5nwqoq
 - bafybeiehu6lvxreqsr24423eqr6bftz6eab6gla4ppvozqqljph6xf5t2m

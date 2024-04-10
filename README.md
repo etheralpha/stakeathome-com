@@ -11,8 +11,7 @@
 
 On August 23rd 2022, Superphiz started the [#StakeFromHome](https://twitter.com/search?q=stakefromhome&src=recent_search_click&f=image) ([Nitter](https://nitter.net/search?f=tweets&q=%23stakefromhome)) hashtag on Twitter as an iniative to share images of home staking setups. Join the movement by becoming a home staking and sharing your setup!
 
-- [Gallery (With Context)](https://bafybeidlhoas5o3thlzjgei3gkxgwgcyvv7hgofaknxl6cgv7gbw5nwqoq.ipfs.nftstorage.link/)
-- [Gallery (Just Images)](http://stakefromhome.gallery/)
+- [Gallery](https://bafybeidlhoas5o3thlzjgei3gkxgwgcyvv7hgofaknxl6cgv7gbw5nwqoq.ipfs.nftstorage.link/)
 - [Files (With Context)](https://bafybeiehu6lvxreqsr24423eqr6bftz6eab6gla4ppvozqqljph6xf5t2m.ipfs.nftstorage.link/)
 - [Files (Just Images)](https://bafybeictylsfwf3j4r6c7zwgjbdanddwjta74t7isiyhuokaxg4avnve6q.ipfs.nftstorage.link/)
 

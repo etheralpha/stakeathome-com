@@ -9,7 +9,7 @@
 <button onclick="window.location.href='https://hackmd.io/@jyeAs_6oRjeDk2Mx5CZyBw/awesome-ethereum-staking'">View Resources</button>
 </callout>
 
-On August 23rd 2022, Superphiz started the [#StakeFromHome](https://twitter.com/search?q=stakefromhome&src=recent_search_click&f=image) ([Nitter](https://nitter.net/search?f=tweets&q=%23stakefromhome)) hashtag on Twitter as an iniative to share images of home staking setups. Join the movement by becoming a home staking and sharing your setup!
+On August 23rd 2022, Superphiz started the [#StakeFromHome](https://twitter.com/search?q=stakefromhome&src=recent_search_click&f=image) hashtag on Twitter as an iniative to share images of home staking setups. Join the movement by becoming a home staking and sharing your setup!
 
 - [Gallery](https://bafybeidlhoas5o3thlzjgei3gkxgwgcyvv7hgofaknxl6cgv7gbw5nwqoq.ipfs.nftstorage.link/)
 - [Files (With Context)](https://bafybeiehu6lvxreqsr24423eqr6bftz6eab6gla4ppvozqqljph6xf5t2m.ipfs.nftstorage.link/)
